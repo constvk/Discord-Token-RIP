@@ -1,2 +1,9 @@
 # Discord-Token-RIP
-fuckertoken
+
+```
+import requests
+import json
+import sys
+import time
+import os
+```
